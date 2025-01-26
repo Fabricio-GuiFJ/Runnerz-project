@@ -30,7 +30,7 @@ public class Application {
             LocalDateTime finishedOn = LocalDateTime.now();
             Integer miles = 5;
 
-            Run run = new Run(id, title, startedOn, finishedOn, miles,Location.OUTSIDE);
+            Run run = new Run(id, title, startedOn, finishedOn, miles,Location.OUTDOOR);
 			log.info("Run :"+run);
 		};
 
