@@ -1,0 +1,84 @@
+{
+    "runs" :[
+        {
+            "id": 1,
+            "title": "Morning Run",
+            "startedOn": "2023-10-01T06:00:00",
+            "completedOn": "2023-10-01T07:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 2,
+            "title": "Evening Run",
+            "startedOn": "2023-10-02T18:00:00",
+            "completedOn": "2023-10-02T19:00:00",
+            "miles": 4,
+            "location": "INDOOR"
+        },
+        {
+            "id": 3,
+            "title": "Weekend Run",
+            "startedOn": "2023-10-03T08:00:00",
+            "completedOn": "2023-10-03T09:00:00",
+            "miles": 6,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 4,
+            "title": "Night Run",
+            "startedOn": "2023-10-04T21:00:00",
+            "completedOn": "2023-10-04T22:00:00",
+            "miles": 3,
+            "location": "INDOOR"
+        },
+        {
+            "id": 5,
+            "title": "Afternoon Run",
+            "startedOn": "2023-10-05T15:00:00",
+            "completedOn": "2023-10-05T16:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 6,
+            "title": "Early Morning Run",
+            "startedOn": "2023-10-06T05:00:00",
+            "completedOn": "2023-10-06T06:00:00",
+            "miles": 4,
+            "location": "INDOOR"
+        },
+        {
+            "id": 7,
+            "title": "Late Night Run",
+            "startedOn": "2023-10-07T23:00:00",
+            "completedOn": "2023-10-08T00:00:00",
+            "miles": 3,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 8,
+            "title": "Lunchtime Run",
+            "startedOn": "2023-10-08T12:00:00",
+            "completedOn": "2023-10-08T13:00:00",
+            "miles": 5,
+            "location": "INDOOR"
+        },
+        {
+            "id": 9,
+            "title": "Sunset Run",
+            "startedOn": "2023-10-09T19:00:00",
+            "completedOn": "2023-10-09T20:00:00",
+            "miles": 4,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 10,
+            "title": "Midday Run",
+            "startedOn": "2023-10-10T11:00:00",
+            "completedOn": "2023-10-10T12:00:00",
+            "miles": 5,
+            "location": "INDOOR"
+        }
+    ]
+}
